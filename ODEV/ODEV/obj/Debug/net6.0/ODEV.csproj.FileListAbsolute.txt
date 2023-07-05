@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\bin\Debug\net6.0\ODEV.exe
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\bin\Debug\net6.0\ODEV.deps.json
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\bin\Debug\net6.0\ODEV.runtimeconfig.json
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\bin\Debug\net6.0\ODEV.dll
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\bin\Debug\net6.0\ODEV.pdb
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.AssemblyInfo.cs
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.dll
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\refint\ODEV.dll
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.pdb
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ODEV.genruntimeconfig.cache
+C:\Users\pc\Desktop\Visual Studio Projects\ODEV\ODEV\obj\Debug\net6.0\ref\ODEV.dll
